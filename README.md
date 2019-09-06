@@ -44,7 +44,8 @@ Have a tool or resource that you love and think would be helpful to others? Just
 * [Android Studio](https://developer.android.com/studio/) - Google's official IDE for Android development.
 * [CodeRunner](https://coderunnerapp.com/) - a editor for MacOS that can run code in 25+ languages out of the box and has impressive code autocompletion capabilities.
 * [IntelliJ](https://www.jetbrains.com/idea/) - an enterprise-level editor ideally used for writing code in Kotlin or Java.
-* [VS Code](https://code.visualstudio.com/) - a lightweight editor that boasts comprehensive editing and debugging features, along with an extensive library of extensions/integrations. 
+* [VS Code](https://code.visualstudio.com/) - a lightweight editor that boasts comprehensive editing and debugging features, along with an extensive library of extensions/integrations.
+    * [VS Code Can Do That? (Github Repo for Frontend Masters Workshop)](https://github.com/burkeholland/workshop-vs-code-can-do-that)
 
 </article>
 
@@ -171,6 +172,8 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 <article id="css">
 
 ## CSS
+
+* [CSS Layout Hack] (https://gist.github.com/vcastroi/e0d296171842e74ad7d4eef7daf15df6) - see all of the elements on your page layouts with this simple trick.
 
 </article>
 
