@@ -173,7 +173,7 @@ Ever heard of JavaScript fatigue? Well it's real, folks. No one enjoys the mind-
 
 ## CSS
 
-* [CSS Layout Hack] (https://gist.github.com/vcastroi/e0d296171842e74ad7d4eef7daf15df6) - see all of the elements on your page layouts with this simple trick.
+* [CSS Layout Hack](https://gist.github.com/vcastroi/e0d296171842e74ad7d4eef7daf15df6) - see all of the elements on your page layouts with this simple trick.
 
 </article>
 
